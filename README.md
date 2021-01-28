@@ -1,37 +1,19 @@
-<h1>Sobre</h1>
-<ul>
-  <li>
-    Desenvolvedor FullStack JavaScript 
-    <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/javascript.png" height="16px"/>
-  </li>
-  <li>
-    Stack React
-    <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/react.png" height="16px"/> 
-    + 
-    Node
-    <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/node.png" height="16px"/> 
-  </li>
-  <li>
-    Usuário de distros Linux 
-    <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/linux.png" height="16px"/>
-    baseadas em Ubuntu
-    <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/ubuntu.png" height="16px"/>
-  </li>
-</ul>
+# Sobre
 
-<h1>Contato</h1>
-<a href="https://danilomacb.netlify.app">
-  <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/www.png"/>
-</a>
-<a href="https://www.linkedin.com/in/danilomacb">
-  <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/linkedin.png"/>
-</a>
-<a href="https://twitter.com/danilomacb">
-  <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/twitter.png"/>
-</a>
-<a href="https://www.facebook.com/danilomacb">
-  <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/facebook.png"/>
-</a>
-<a href="mailto:danilo.macb@gmail.com">
-  <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/gmail.png"/>
-</a>
+- Desenvolvedor FullStack JavaScript <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/javascript.png" height="16px"/>
+- Stack React <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/react.png" height="16px"/> + Node <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/node.png" height="16px"/>
+- Usuário de distros Linux <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/linux.png" height="16px"/> baseadas em Ubuntu <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/ubuntu.png" height="16px"/>
+
+# Contato
+
+[![portfolio](./images/www.png)](https://danilomacb.netlify.app)
+[![linkedin](./images/linkedin.png)](https://www.linkedin.com/in/danilomacb)
+[![twitter](./images/twitter.png)](https://twitter.com/danilomacb)
+[![facebook](./images/facebook.png)](https://www.facebook.com/danilomacb)
+[![gmail](./images/gmail.png)](mailto:danilo.macb@gmail.com)
+
+# Github Stats
+
+[![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilomacb&count_private=true&show_icons=true&theme=blue-green)](https://github.com/danilomacb/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilomacb&theme=blue-green)](https://github.com/danilomacb/github-readme-stats)
