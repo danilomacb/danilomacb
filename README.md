@@ -1,10 +1,6 @@
-# Sobre
+Virtual garbage creator.
 
-- Desenvolvedor FullStack JavaScript <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/javascript.png" height="16px"/>
-- Stack React <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/react.png" height="16px"/> + Node <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/node.png" height="16px"/>
-- Usuário de distros Linux <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/linux.png" height="16px"/> baseadas em Ubuntu <img src="https://raw.githubusercontent.com/danilomacb/danilomacb/master/images/ubuntu.png" height="16px"/>
-
-# Contato
+# Contact
 
 [![portfolio](./images/www.png)](https://danilomacb.netlify.app)
 [![linkedin](./images/linkedin.png)](https://www.linkedin.com/in/danilomacb)
